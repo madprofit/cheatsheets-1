@@ -18,3 +18,6 @@ git reset
 git reset
 git reset
 git reset
+
+my changes
+
