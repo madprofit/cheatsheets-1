@@ -7,4 +7,14 @@ git log - prints a log of all commits
 git checkout - allows you to checkout a previous commit in log history
 -m - allows you to add a message 
 git reset - reverts to previous commit in log history
+git reset
+git reset
+git reset
+git reset
 git reset  
+git reset
+git reset
+git reset
+git reset
+git reset
+git reset
